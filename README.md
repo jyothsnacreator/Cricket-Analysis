@@ -1,5 +1,5 @@
 # Cricket-Analysis
-#MY GIF
+
 ![](https://github.com/jyothsnacreator/Cricket-Analysis/blob/main/ODI.gif)
 
 Project on Cricket ODI Data 
