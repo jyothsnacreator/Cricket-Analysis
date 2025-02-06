@@ -1,4 +1,4 @@
-# Cricket-Analysis
+
 
 ![](https://github.com/jyothsnacreator/Cricket-Analysis/blob/main/ODI.gif)
 
